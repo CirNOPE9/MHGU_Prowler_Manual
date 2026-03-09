@@ -2,223 +2,297 @@
   {
     "region": "Village 2",
     "name": "Prowler's First Errand",
-    "category": [],
+    "category": [
+      "Village 2"
+    ],
     "requires": ""
   },
   {
     "name": "Jurassic Fungologist",
     "region": "Village 2",
-    "category": [],
+    "category": [
+      "Village 2"
+    ],
     "requires": ""
   },
   {
     "name": " Lucky Frontier Cat",
     "region": "Village 2",
-    "category": [],
+    "category": [
+      "Village 2"
+    ],
     "requires": ""
   },
   {
     "name": "Verdant Hills Bully",
     "region": "Village 3",
-    "category": [],
+    "category": [
+      "Village 3"
+    ],
     "requires": ""
   },
   {
     "name": "Lucky Hills Cat",
     "region": "Village 3",
-    "category": [],
+    "category": [
+      "Village 3"
+    ],
     "requires": ""
   },
   {
     "name": "The Mining Drag",
     "region": "Village 3",
-    "category": [],
+    "category": [
+      "Village 3"
+    ],
     "requires": ""
   },
   {
     "name": "Felyne Fishing Weekly",
     "region": "Village 3",
-    "category": [],
+    "category": [
+      "Village 3"
+    ],
     "requires": "|Skill Points:2|"
   },
   {
     "name": "Grooming the Moofahs",
     "region": "Village 3",
-    "category": [],
+    "category": [
+      "Village 3"
+    ],
     "requires": ""
   },
   {
     "name": "Bug Reports",
     "region": "Village 3",
-    "category": [],
+    "category": [
+      "Village 3"
+    ],
     "requires": ""
   },
   {
     "name": "Great Maccao Headbreaker",
     "region": "Village 4",
-    "category": [],
+    "category": [
+      "Village 4"
+    ],
     "requires": ""
   },
   {
     "name": "Dash It All",
     "region": "Village 4",
-    "category": [],
+    "category": [
+      "Village 4"
+    ],
     "requires": ""
   },
   {
     "name": "An Offer You Can't Refuse",
     "region": "Village 4",
-    "category": [],
+    "category": [
+      "Village 4"
+    ],
     "requires": ""
   },
   {
     "name": "The Secret Ingredient",
     "region": "Village 4",
-    "category": [],
+    "category": [
+      "Village 4"
+    ],
     "requires": ""
   },
   {
     "name": "Marshlands Fishing?",
     "region": "Village 4",
-    "category": [],
+    "category": [
+      "Village 4"
+    ],
     "requires": "|Skill Points:2|"
   },
   {
     "name": "Arctic Point Expedition",
     "region": "Village 4",
-    "category": [],
+    "category": [
+      "Village 4"
+    ],
     "requires": ""
   },
   {
     "name": "Blood Red Marshlands",
     "region": "Village 5",
-    "category": [],
+    "category": [
+      "Village 5"
+    ],
     "requires": ""
   },
   {
     "name": "An Offer You Can't Relieve",
     "region": "Village 5",
-    "category": [],
+    "category": [
+      "Village 5"
+    ],
     "requires": ""
   },
   {
     "name": "Uroktor Hide 'n Seek",
     "region": "Village 5",
-    "category": [],
+    "category": [
+      "Village 5"
+    ],
     "requires": ""
   },
   {
     "name": "Into the Volcano",
     "region": "Village 5",
-    "category": [],
+    "category": [
+      "Village 5"
+    ],
     "requires": ""
   },
   {
     "name": "Kut-Ku Earbreaker",
     "region": "Village 5",
-    "category": [],
+    "category": [
+      "Village 5"
+    ],
     "requires": ""
   },
   {
     "name": "The Right Cattitude",
     "region": "Village 6",
-    "category": [],
+    "category": [
+      "Village 5"
+    ],
     "requires": ""
   },
   {
     "name": "D. Hermitaur Shellbreaker",
     "region": "Village 6",
-    "category": [],
+    "category": [
+      "Village 6"
+    ],
     "requires": ""
   },
   {
     "name": "Surrounded by Blue and Green",
     "region": "Village 6",
-    "category": [],
+    "category": [
+      "Village 6"
+    ],
     "requires": ""
   },
   {
     "name": "Poison and Fangs",
     "region": "Village 6",
-    "category": [],
+    "category": [
+      "Village 6"
+    ],
     "requires": ""
   },
   {
     "name": "Prowler's Second Errand",
     "region": "Village 7",
-    "category": [],
+    "category": [
+      "Village 7"
+    ],
     "requires": ""
   },
   {
     "name": "Conga Line",
     "region": "Village 7",
-    "category": [],
+    "category": [
+      "Village 7"
+    ],
     "requires": ""
   },
   {
     "name": "Dashing Velocidrome",
     "region": "Village 7",
-    "category": [],
+    "category": [
+      "Village 7"
+    ],
     "requires": ""
   },
   {
     "name": "Eggcellent Surprise",
     "region": "Village 8",
-    "category": [],
+    "category": [
+      "Village 8"
+    ],
     "requires": ""
   },
   {
     "name": "Cold-Blooded Giadrome",
     "region": "Village 8",
-    "category": [],
+    "category": [
+      "Village 8"
+    ],
     "requires": ""
   },
   {
     "name": "Picturesque Pinnacle",
     "region": "Village 8",
-    "category": [],
+    "category": [
+      "Village 8"
+    ],
     "requires": ""
   },
   {
     "name": "Congalala Crestbreaker",
     "region": "Village 8",
-    "category": [],
+    "category": [
+      "Village 8"
+    ],
     "requires": ""
   },
   {
     "name": "Innocent Curiosity",
     "region": "Village 9",
-    "category": [],
+    "category": [
+      "Village 9"
+    ],
     "requires": ""
   },
   {
     "name": "A Poison Paradise",
     "region": "Village 9",
-    "category": [],
+    "category": [
+      "Village 9"
+    ],
     "requires": ""
   },
   {
     "name": "Lucky Dunes Cat",
     "region": "Village 9",
-    "category": [],
+    "category": [
+      "Village 9"
+    ],
     "requires": ""
   },
   {
     "name": "Basarios Chestbreaker",
     "region": "Village 9",
-    "category": [],
+    "category": [
+      "Village 9"
+    ],
     "requires": ""
   },
   {
     "name": "Lucky Hills Cat (HR)",
     "region": "Village 10",
-    "category": [],
+    "category": [
+      "Village 10"
+    ],
     "requires": ""
   },
   {
     "name": "Ludroth Lunacy",
     "region": "Village 10",
-    "category": [],
+    "category": [
+      "Village 10"
+    ],
     "requires": ""
   },
   {
@@ -230,170 +304,227 @@
   {
     "name": "Snow Festival",
     "region": "Village 10",
-    "category": [],
+    "category": [
+      "Village 10"
+    ],
     "requires": ""
   },
   {
     "name": "Drome Rush!",
     "region": "Village 10",
-    "category": [],
+    "category": [
+      "Village 10"
+    ],
     "requires": ""
   },
   {
     "name": "Dance: The Final Frontier",
     "region": "Hub 1",
-    "category": [],
+    "category": [
+      "Hub 1"
+    ],
     "requires": ""
   },
   {
     "name": "Taste the Mountains",
     "region": "Hub 1",
-    "category": [],
+    "category": [
+      "Hub 1"
+    ],
     "requires": ""
   },
   {
     "name": "Lucky Mountain Cat",
     "region": "Hub 1",
-    "category": [],
+    "category": [
+      "Hub 1"
+    ],
     "requires": ""
   },
   {
     "name": "Running with the Night",
     "region": "Hub 2",
-    "category": [],
+    "category": [
+      "Hub 2"
+    ],
     "requires": ""
   },
   {
     "name": " A Cricket to Love",
     "region": "Hub 2",
-    "category": [],
+    "category": [
+      "Hub 2"
+    ],
     "requires": ""
   },
   {
     "name": "A Resplendent Dance",
     "region": "Hub 2",
-    "category": [],
+    "category": [
+      "Hub 2"
+    ],
     "requires": ""
   },
   {
     "name": "Hot Scales & Sharp Pincers",
     "region": "Hub 3",
-    "category": [],
+    "category": [
+      "Hub 3"
+    ],
     "requires": ""
   },
   {
     "name": "There's Always Room for Fish",
     "region": "Hub 3",
-    "category": [],
+    "category": [
+      "Hub 3"
+    ],
     "requires": "|Skill Points:2|"
   },
   {
     "name": "Out of the Frying Pan",
     "region": "Hub 3",
-    "category": [],
+    "category": [
+      "Hub 3"
+    ],
     "requires": ""
   },
   {
     "name": "The Grandmeowster's Trials",
     "region": "Hub 4",
-    "category": [],
+    "category": [
+      "Hub 4"
+    ],
     "requires": ""
   },
   {
     "name": "We Cat All Be Heroes",
     "region": "Hub 4",
-    "category": [],
+    "category": [
+      "Hub 4"
+    ],
     "requires": ""
   },
   {
     "name": "Fois Gras Faux Pas",
     "region": "Hub 4",
-    "category": [],
+    "category": [
+      "Hub 4"
+    ],
     "requires": ""
   },
   {
     "name": "Splash in the Moonlight",
     "region": "Hub 4",
-    "category": [],
+    "category": [
+      "Hub 4"
+    ],
     "requires": ""
   },
   {
     "name": "Calm, Cool, and Collected",
     "region": "Hub 5",
-    "category": [],
+    "category": [
+      "Hub 5"
+    ],
     "requires": ""
   },
   {
     "name": "Kecha Wacha Earbreaker",
     "region": "Hub 5",
-    "category": [],
+    "category": [
+      "Hub 5"
+    ],
     "requires": ""
   },
   {
     "name": "Fish On!",
     "region": "Hub 5",
-    "category": [],
+    "category": [
+      "Hub 5"
+    ],
     "requires": "|Skill Points:2|"
   },
   {
     "name": "Lucky Volcano Cat",
     "region": "Hub 5",
-    "category": [],
+    "category": [
+      "Hub 5"
+    ],
     "requires": ""
   },
   {
     "name": "Under the Blazing Sun",
     "region": "Hub 5",
-    "category": [],
+    "category": [
+      "Hub 5"
+    ],
     "requires": ""
   },
   {
     "name": "Everywhere You Look",
     "region": "Hub 6",
-    "category": [],
+    "category": [
+      "Hub 6"
+    ],
     "requires": ""
   },
   {
     "name": "Malfestio Headbreaker",
     "region": "Hub 6",
-    "category": [],
+    "category": [
+      "Hub 6"
+    ],
     "requires": ""
   },
   {
     "name": "The Snow Must Go On",
     "region": "Hub 6",
-    "category": [],
+    "category": [
+      "Hub 6"
+    ],
     "requires": ""
   },
   {
     "name": "Big Bro's Benevolence",
     "region": "Hub 6",
-    "category": [],
+    "category": [
+      "Hub 6"
+    ],
     "requires": ""
   },
   {
     "name": "The Ball's in Your Court",
     "region": "Hub 7",
-    "category": [],
+    "category": [
+      "Hub 7"
+    ],
     "requires": ""
   },
   {
     "name": "Uragaan Shellbreaker",
     "region": "Hub 7",
-    "category": [],
+    "category": [
+      "Hub 7"
+    ],
     "requires": ""
   },
   {
     "name": "Poison, Poison, Go Away",
     "region": "Hub 7",
-    "category": [],
+    "category": [
+      "Hub 7"
+    ],
     "requires": ""
   },
   {
     "name": "Meownster Hunter",
     "region": "Hub 7",
     "victory": true,
-    "category": [],
+    "category": [
+      "Meownster Hunter (Goal",
+      "Hub 7)"
+    ],
     "requires": ""
   }
 ]
