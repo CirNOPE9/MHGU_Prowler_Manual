@@ -1,0 +1,399 @@
+[
+  {
+    "region": "Village 2",
+    "name": "Prowler's First Errand",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Jurassic Fungologist",
+    "region": "Village 2",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": " Lucky Frontier Cat",
+    "region": "Village 2",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Verdant Hills Bully",
+    "region": "Village 3",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Lucky Hills Cat",
+    "region": "Village 3",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "The Mining Drag",
+    "region": "Village 3",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Felyne Fishing Weekly",
+    "region": "Village 3",
+    "category": [],
+    "requires": "|Skill Points:2|"
+  },
+  {
+    "name": "Grooming the Moofahs",
+    "region": "Village 3",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Bug Reports",
+    "region": "Village 3",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Great Maccao Headbreaker",
+    "region": "Village 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Dash It All",
+    "region": "Village 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "An Offer You Can't Refuse",
+    "region": "Village 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "The Secret Ingredient",
+    "region": "Village 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Marshlands Fishing?",
+    "region": "Village 4",
+    "category": [],
+    "requires": "|Skill Points:2|"
+  },
+  {
+    "name": "Arctic Point Expedition",
+    "region": "Village 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Blood Red Marshlands",
+    "region": "Village 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "An Offer You Can't Relieve",
+    "region": "Village 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Uroktor Hide 'n Seek",
+    "region": "Village 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Into the Volcano",
+    "region": "Village 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Kut-Ku Earbreaker",
+    "region": "Village 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "The Right Cattitude",
+    "region": "Village 6",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "D. Hermitaur Shellbreaker",
+    "region": "Village 6",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Surrounded by Blue and Green",
+    "region": "Village 6",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Poison and Fangs",
+    "region": "Village 6",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Prowler's Second Errand",
+    "region": "Village 7",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Conga Line",
+    "region": "Village 7",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Dashing Velocidrome",
+    "region": "Village 7",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Eggcellent Surprise",
+    "region": "Village 8",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Cold-Blooded Giadrome",
+    "region": "Village 8",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Picturesque Pinnacle",
+    "region": "Village 8",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Congalala Crestbreaker",
+    "region": "Village 8",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Innocent Curiosity",
+    "region": "Village 9",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "A Poison Paradise",
+    "region": "Village 9",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Lucky Dunes Cat",
+    "region": "Village 9",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Basarios Chestbreaker",
+    "region": "Village 9",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Lucky Hills Cat (HR)",
+    "region": "Village 10",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Ludroth Lunacy",
+    "region": "Village 10",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Duramboros Humpbreaker",
+    "region": "Village 10",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Snow Festival",
+    "region": "Village 10",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Drome Rush!",
+    "region": "Village 10",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Dance: The Final Frontier",
+    "region": "Hub 1",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Taste the Mountains",
+    "region": "Hub 1",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Lucky Mountain Cat",
+    "region": "Hub 1",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Running with the Night",
+    "region": "Hub 2",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": " A Cricket to Love",
+    "region": "Hub 2",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "A Resplendent Dance",
+    "region": "Hub 2",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Hot Scales & Sharp Pincers",
+    "region": "Hub 3",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "There's Always Room for Fish",
+    "region": "Hub 3",
+    "category": [],
+    "requires": "|Skill Points:2|"
+  },
+  {
+    "name": "Out of the Frying Pan",
+    "region": "Hub 3",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "The Grandmeowster's Trials",
+    "region": "Hub 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "We Cat All Be Heroes",
+    "region": "Hub 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Fois Gras Faux Pas",
+    "region": "Hub 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Splash in the Moonlight",
+    "region": "Hub 4",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Calm, Cool, and Collected",
+    "region": "Hub 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Kecha Wacha Earbreaker",
+    "region": "Hub 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Fish On!",
+    "region": "Hub 5",
+    "category": [],
+    "requires": "|Skill Points:2|"
+  },
+  {
+    "name": "Lucky Volcano Cat",
+    "region": "Hub 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Under the Blazing Sun",
+    "region": "Hub 5",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Everywhere You Look",
+    "region": "Hub 6",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Malfestio Headbreaker",
+    "region": "Hub 6",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "The Snow Must Go On",
+    "region": "Hub 6",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Big Bro's Benevolence",
+    "region": "Hub 6",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "The Ball's in Your Court",
+    "region": "Hub 7",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Uragaan Shellbreaker",
+    "region": "Hub 7",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Poison, Poison, Go Away",
+    "region": "Hub 7",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Meownster Hunter",
+    "region": "Hub 7",
+    "victory": true,
+    "category": [],
+    "requires": ""
+  }
+]
