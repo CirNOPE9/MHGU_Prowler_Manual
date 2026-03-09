@@ -298,7 +298,7 @@
   {
     "name": "Duramboros Humpbreaker",
     "region": "Village 10",
-    "category": [],
+    "category": ["Village 10"],
     "requires": ""
   },
   {

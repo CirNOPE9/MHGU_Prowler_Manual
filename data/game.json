@@ -3,5 +3,13 @@
   "game": "MHGUProwler",
   "creator": "CirNOPE9",
   "filler_item_name": "Felvine",
-  "starting_items": []
+  "starting_items": [
+        {
+            "items":["Charisma Bias"]
+        },
+        {
+            "items":["Village Star"],
+            "random":2
+        }
+    ]
 }
