@@ -1,0 +1,66 @@
+{
+  "Village 2": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Village 3": {
+    "connects_to": [],
+    "requires": "|Village Star:3|"
+  },
+  "Village 4": {
+    "connects_to": [],
+    "requires": "|Village Star:4| AND |Armor Rarity:1| AND |Weapon Rarity:1|"
+  },
+  "Village 5": {
+    "connects_to": [],
+    "requires": "|Village Star:5| AND |Armor Rarity:2| AND |Weapon Rarity:2|"
+  },
+  "Village 6": {
+    "connects_to": [],
+    "requires": "|Village Star:6| AND |Armor Rarity:3| AND |Weapon Rarity:3|"
+  },
+  "Village 7": {
+    "connects_to": [],
+    "requires": "|Village Star:7|  AND |Armor Rarity:3| AND |Weapon Rarity:3|"
+  },
+  "Village 8": {
+    "connects_to": [],
+    "requires": "|Village Star:8| AND |Armor Rarity:4| AND |Weapon Rarity:4|"
+  },
+  "Village 9": {
+    "connects_to": [],
+    "requires": "|Village Star:9| AND |Armor Rarity:5| AND |Weapon Rarity:5|"
+  },
+  "Village 10": {
+    "connects_to": [],
+    "requires": "|Village Star:10| AND |Armor Rarity:6| AND |Weapon Rarity:6|"
+  },
+  "Hub 1": {
+    "connects_to": [],
+    "requires": "|Hunter Rank:1|"
+  },
+  "Hub 2": {
+    "connects_to": [],
+    "requires": "|Hunter Rank:2| AND |Armor Rarity:1| AND |Weapon Rarity:1|"
+  },
+  "Hub 3": {
+    "connects_to": [],
+    "requires": "|Hunter Rank:3| AND |Armor Rarity:2| AND |Weapon Rarity:2|"
+  },
+  "Hub 4": {
+    "connects_to": [],
+    "requires": "|Hunter Rank:4| AND |Armor Rarity:3| AND |Weapon Rarity:3|"
+  },
+  "Hub 5": {
+    "connects_to": [],
+    "requires": " |Hunter Rank:5| AND |Armor Rarity:4| AND |Weapon Rarity:4|"
+  },
+  "Hub 6": {
+    "connects_to": [],
+    "requires": "|Hunter Rank:6| AND |Armor Rarity:5| AND |Weapon Rarity:5|"
+  },
+  "Hub 7": {
+    "connects_to": [],
+    "requires": "|Hunter Rank:7| AND |Armor Rarity:6| AND |Weapon Rarity:6|"
+  }
+}

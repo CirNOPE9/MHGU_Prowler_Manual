@@ -1,0 +1,162 @@
+[
+  {
+    "count": "6",
+    "name": "Armor Rarity",
+    "category": [
+      "Armory"
+    ],
+    "progression": true
+  },
+  {
+    "count": "6",
+    "name": "Weapon Rarity",
+    "category": [
+      "Armory"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Skill Points",
+    "category": [
+      "Stats"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "7",
+    "name": "Move Slot",
+    "category": [
+      "Stats"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Charisma Bias",
+    "category": [
+      "Bias"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Protection Bias",
+    "category": [
+      "Bias"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gathering Bias",
+    "category": [
+      "Bias"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fighting Bias",
+    "category": [
+      "Bias"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Assisting Bias",
+    "category": [
+      "Bias"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Healing Bias",
+    "category": [
+      "Bias"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bombing Vias",
+    "category": [
+      "Bias"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Beast Bias",
+    "category": [
+      "Bias"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Village Star",
+    "category": [
+      "Quest Limits"
+    ],
+    "progression": true
+  },
+  {
+    "count": "7",
+    "name": "Hunter Rank",
+    "category": [
+      "Quest Limits"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Palico Voucher",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Meownter Hunter Voucher",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Armorcharm",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Armortalon",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Powercharm",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Powertalon",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  }
+]

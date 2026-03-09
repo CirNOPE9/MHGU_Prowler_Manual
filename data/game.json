@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MHGUProwler",
+  "creator": "CirNOPE9",
+  "filler_item_name": "Felvine",
+  "starting_items": []
+}
