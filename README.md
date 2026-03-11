@@ -11,6 +11,7 @@ A manual implementation of MHGU's Prowler content for Archipelago. (Up to HR atm
 - Armor and Weapon Rarities
 - Palico Vouchers (how many palicoes you're allowed to bring to hunts)
 - Power/Armorcharms and -talons (yes they do work as cats that's why they are items)
+- Meownster Hunter Voucher (mcguffin for final quest)
 ### End Goal
 - Finish Meownster Hunter (final HR Hub Prowler quest)
 
